@@ -1,2 +1,2 @@
-# Digital-Stopwatch
-A repository about Digital-Stopwatch
+# Digital-Clock
+A repository about Digital-Clock
